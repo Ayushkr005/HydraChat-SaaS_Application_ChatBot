@@ -249,4 +249,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Shadcn/ui** for beautiful UI components
 - **Vite** for fast development experience
 
-**Made with ❤️ by the Ayush Kumar**
+     **Made with ❤️ by Ayush Kumar**
